@@ -2,3 +2,4 @@ name = Font Awesome CDN
 description = Include latest Font Awesome from CDN.
 package = User interface
 core = 7.x
+version = 7.x-1.0

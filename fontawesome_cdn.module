@@ -2,5 +2,5 @@
 
 function fontawesome_cdn_preprocess_html()
 {
-    drupal_add_css('http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css');
+    drupal_add_css('https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css');
 }
