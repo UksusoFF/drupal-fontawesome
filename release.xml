@@ -32,7 +32,7 @@
             <status>published</status>
             <release_link>https://github.com/UksusoFF/drupal-fontawesome_cdn/releases/tag/7.x-1.1</release_link>
             <download_link>https://api.github.com/repos/UksusoFF/drupal-fontawesome_cdn/tarball/7.x-1.1</download_link>
-            <date>1515660532</date>
+            <date>1515660954</date>
             <terms>
             </terms>
             <files>
@@ -41,14 +41,14 @@
                     <archive_type>zip</archive_type>
                     <md5></md5>
                     <size></size>
-                    <filedate>1515660532</filedate>
+                    <filedate>1515660954</filedate>
                 </file>
                 <file>
                     <url>https://api.github.com/repos/UksusoFF/drupal-fontawesome_cdn/tarball/7.x-1.1</url>
                     <archive_type>tar.gz</archive_type>
                     <md5></md5>
                     <size></size>
-                    <filedate>1515660532</filedate>
+                    <filedate>1515660954</filedate>
                 </file>
             </files>
         </release>
