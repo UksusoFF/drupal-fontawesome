@@ -31,20 +31,20 @@
             <version_patch>1</version_patch>
             <status>published</status>
             <release_link>https://github.com/UksusoFF/drupal-fontawesome_cdn/releases/tag/7.x-1.1</release_link>
-            <download_link>https://api.github.com/repos/UksusoFF/drupal-fontawesome_cdn/tarball/7.x-1.1</download_link>
+            <download_link>https://github.com/UksusoFF/drupal-fontawesome_cdn/archive/7.x-1.1.tar.gz</download_link>
             <date>1515673238</date>
             <terms>
             </terms>
             <files>
                 <file>
-                    <url>https://api.github.com/repos/UksusoFF/drupal-fontawesome_cdn/zipball/7.x-1.1</url>
+                    <url>https://github.com/UksusoFF/drupal-fontawesome_cdn/archive/7.x-1.1.zip</url>
                     <archive_type>zip</archive_type>
                     <md5></md5>
                     <size></size>
                     <filedate>1515673238</filedate>
                 </file>
                 <file>
-                    <url>https://api.github.com/repos/UksusoFF/drupal-fontawesome_cdn/tarball/7.x-1.1</url>
+                    <url>https://github.com/UksusoFF/drupal-fontawesome_cdn/archive/7.x-1.1.tar.gztar.gz</url>
                     <archive_type>tar.gz</archive_type>
                     <md5></md5>
                     <size></size>
@@ -60,20 +60,20 @@
             <version_patch>0</version_patch>
             <status>published</status>
             <release_link>https://github.com/UksusoFF/drupal-fontawesome_cdn/releases/tag/7.x-1.0</release_link>
-            <download_link>https://api.github.com/repos/UksusoFF/drupal-fontawesome_cdn/tarball/7.x-1.0</download_link>
+            <download_link>https://github.com/UksusoFF/drupal-fontawesome_cdn/archive/7.x-1.0.tar.gz</download_link>
             <date>1515672397</date>
             <terms>
             </terms>
             <files>
                 <file>
-                    <url>https://api.github.com/repos/UksusoFF/drupal-fontawesome_cdn/zipball/7.x-1.0</url>
+                    <url>https://github.com/UksusoFF/drupal-fontawesome_cdn/archive/7.x-1.0.zip</url>
                     <archive_type>zip</archive_type>
                     <md5></md5>
                     <size></size>
                     <filedate>1515672397</filedate>
                 </file>
                 <file>
-                    <url>https://api.github.com/repos/UksusoFF/drupal-fontawesome_cdn/tarball/7.x-1.0</url>
+                    <url>https://github.com/UksusoFF/drupal-fontawesome_cdn/archive/7.x-1.0.tar.gztar.gz</url>
                     <archive_type>tar.gz</archive_type>
                     <md5></md5>
                     <size></size>
