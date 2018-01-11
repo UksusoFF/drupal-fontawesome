@@ -24,6 +24,35 @@
     </terms>
     <releases>
         <release>
+            <name>drupal-fontawesome_cdn 7.x-1.2</name>
+            <version>7.x-1.2</version>
+            <tag>7.x-1.2</tag>
+            <version_major>1</version_major>
+            <version_patch>2</version_patch>
+            <status>published</status>
+            <release_link>https://github.com/UksusoFF/drupal-fontawesome_cdn/releases/tag/7.x-1.2</release_link>
+            <download_link>https://api.github.com/repos/UksusoFF/drupal-fontawesome_cdn/tarball/7.x-1.2</download_link>
+            <date>1515659070</date>
+            <terms>
+            </terms>
+            <files>
+                <file>
+                    <url>https://api.github.com/repos/UksusoFF/drupal-fontawesome_cdn/zipball/7.x-1.2</url>
+                    <archive_type>zip</archive_type>
+                    <md5></md5>
+                    <size></size>
+                    <filedate>1515659070</filedate>
+                </file>
+                <file>
+                    <url>https://api.github.com/repos/UksusoFF/drupal-fontawesome_cdn/tarball/7.x-1.2</url>
+                    <archive_type>tar.gz</archive_type>
+                    <md5></md5>
+                    <size></size>
+                    <filedate>1515659070</filedate>
+                </file>
+            </files>
+        </release>
+        <release>
             <name>drupal-fontawesome_cdn 7.x-1.1</name>
             <version>7.x-1.1</version>
             <tag>7.x-1.1</tag>
