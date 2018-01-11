@@ -24,6 +24,35 @@
     </terms>
     <releases>
         <release>
+            <name>drupal-fontawesome_cdn 7.x-1.1</name>
+            <version>7.x-1.1</version>
+            <tag>7.x-1.1</tag>
+            <version_major>1</version_major>
+            <version_patch>1</version_patch>
+            <status>published</status>
+            <release_link>https://github.com/UksusoFF/drupal-fontawesome_cdn/releases/tag/7.x-1.1</release_link>
+            <download_link>https://api.github.com/repos/UksusoFF/drupal-fontawesome_cdn/tarball/7.x-1.1</download_link>
+            <date>1515660532</date>
+            <terms>
+            </terms>
+            <files>
+                <file>
+                    <url>https://api.github.com/repos/UksusoFF/drupal-fontawesome_cdn/zipball/7.x-1.1</url>
+                    <archive_type>zip</archive_type>
+                    <md5></md5>
+                    <size></size>
+                    <filedate>1515660532</filedate>
+                </file>
+                <file>
+                    <url>https://api.github.com/repos/UksusoFF/drupal-fontawesome_cdn/tarball/7.x-1.1</url>
+                    <archive_type>tar.gz</archive_type>
+                    <md5></md5>
+                    <size></size>
+                    <filedate>1515660532</filedate>
+                </file>
+            </files>
+        </release>
+        <release>
             <name>drupal-fontawesome_cdn 7.x-1.0</name>
             <version>7.x-1.0</version>
             <tag>7.x-1.0</tag>
@@ -32,7 +61,7 @@
             <status>published</status>
             <release_link>https://github.com/UksusoFF/drupal-fontawesome_cdn/releases/tag/7.x-1.0</release_link>
             <download_link>https://api.github.com/repos/UksusoFF/drupal-fontawesome_cdn/tarball/7.x-1.0</download_link>
-            <date>1515660084</date>
+            <date>1515660163</date>
             <terms>
             </terms>
             <files>
@@ -41,14 +70,14 @@
                     <archive_type>zip</archive_type>
                     <md5></md5>
                     <size></size>
-                    <filedate>1515660084</filedate>
+                    <filedate>1515660163</filedate>
                 </file>
                 <file>
                     <url>https://api.github.com/repos/UksusoFF/drupal-fontawesome_cdn/tarball/7.x-1.0</url>
                     <archive_type>tar.gz</archive_type>
                     <md5></md5>
                     <size></size>
-                    <filedate>1515660084</filedate>
+                    <filedate>1515660163</filedate>
                 </file>
             </files>
         </release>
