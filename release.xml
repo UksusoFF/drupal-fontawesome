@@ -1,0 +1,56 @@
+<project xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>UksusoFF/drupal-fontawesome_cdn</title>
+    <short_name>drupal-fontawesome_cdn</short_name>
+    <dc:creator>UksusoFF</dc:creator>
+    <type>project_module</type>
+    <api_version>7.x</api_version>
+    <recommended_major>1</recommended_major>
+    <supported_majors>1</supported_majors>
+    <default_major>1</default_major>
+    <project_status>published</project_status>
+    <terms>
+        <term>
+            <name>Projects</name>
+            <value>Modules</value>
+        </term>
+        <term>
+            <name>Maintenance status</name>
+            <value>Actively maintained</value>
+        </term>
+        <term>
+            <name>Development status</name>
+            <value>Under active development</value>
+        </term>
+    </terms>
+    <releases>
+        <release>
+            <name>drupal-fontawesome_cdn 7.x-1.1</name>
+            <version>7.x-1.1</version>
+            <tag>7.x-1.1</tag>
+            <version_major>1</version_major>
+            <version_patch>1</version_patch>
+            <status>published</status>
+            <release_link>https://github.com/UksusoFF/drupal-fontawesome_cdn/releases/tag/7.x-1.1</release_link>
+            <download_link>https://api.github.com/repos/UksusoFF/drupal-fontawesome_cdn/tarball/7.x-1.1</download_link>
+            <date>1515658384</date>
+            <terms>
+            </terms>
+            <files>
+                <file>
+                    <url>https://api.github.com/repos/UksusoFF/drupal-fontawesome_cdn/zipball/7.x-1.1</url>
+                    <archive_type>zip</archive_type>
+                    <md5></md5>
+                    <size></size>
+                    <filedate>1515658384</filedate>
+                </file>
+                <file>
+                    <url>https://api.github.com/repos/UksusoFF/drupal-fontawesome_cdn/tarball/7.x-1.1</url>
+                    <archive_type>tar.gz</archive_type>
+                    <md5></md5>
+                    <size></size>
+                    <filedate>1515658384</filedate>
+                </file>
+            </files>
+        </release>
+    </releases>
+</project>

@@ -3,3 +3,4 @@ description = Include latest Font Awesome from CDN.
 package = User interface
 core = 7.x
 version = 7.x-1.0
+project status url = https://raw.githubusercontent.com/UksusoFF/drupal-fontawesome_cdn/master/release.xml#
